@@ -622,7 +622,7 @@
     },
     "jax": {
       "name": "jax",
-      "id": "1493703027801194598"
+      "id": "1409995768395464754"
     },
     "yuna0x0": {
       "name": "yuna0x0",
@@ -659,6 +659,10 @@
     "imnotplayinginreallife": {
       "name": "I'm not playing in real life",
       "id": "841939724306087986"
+    },
+    "Nays": {
+      "name": "Nays",
+      "id": "344871509677965313"
     }
   },
   "equicord": {
